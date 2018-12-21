@@ -1,2 +1,7 @@
-python	2018-12-21
-hello	2018-12-21
+linux	['lɪnəks]一种可免费使用的UNIX操作系统，运行于一般的PC机上	2018-12-21
+python	[ˈpaɪθən]n.巨蛇，大蟒	2018-12-21
+java	[]abbr.Jamaica Association of Villas and Apartments 牙买加别墅与公寓（建筑）协会jamming amplitude vs azimuth 干扰幅度-方位	2018-12-21
+xml	[ˌeks em ˈel]abbr.Extensible Markup Language 可扩展标记语言	2018-12-21
+snake	[sneɪk]n.蛇奸险的人卑劣的人蛇形浮动汇率制vt.沿…曲折前进（或延伸）<美>/<口>拖，拉（木材等）vi.曲折前进（或延伸）蛇行，悄悄地爬行	2018-12-21
+and so on	[ænd səʊ ɔn]等等诸如此类什么的依此类推	2018-12-21
+just so so	[]n.马马虎虎，一般	2018-12-21
