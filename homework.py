@@ -1,34 +1,27 @@
 # -*- coding: UTF-8 -*-
-import datetime
-filename = r"C:\Users\nttzl\Desktop\words.txt"
+import datetime,requests
 
-def read_file():
-    with open(filename,'r') as f:
-        con = f.readlines()
-        return con
-def add_word(wd):
-    with open(filename,'a+') as f:
-        f.write(wd+"\t"+str(datetime.date.today())+"\n")
-
-def main():
-    count = 0
-    wd=input("请输入你要记录的单词(直接回车退出程序):").strip()
-    print(wd)
-    con = read_file()
-    n = len(con)
-    if wd == "":
-        exit(0)
-    for i in con:
-        if wd in i:
-            print("单词已存在")
-            count = 1
+while 1:
+    f = open("words.txt","a+")
+    f.seek(0)
+    lines = f.readlines()
+    n = len(lines)
+    words = []
+    words.extend([line.split("\t")[0] for line in lines if line.strip()])
     
-    if count == 0:
-        add_word(wd)
-    print("已记录{}个单词/词组".format(n+1-count))
+    word=input("请输入你要记录的单词(直接回车退出程序):").strip()
+    if not word:
+        break
+    if word in words:
+        print("单词已存在")
+    else:
+        worditem = word + '\t' + str(datetime.date.today())
+        print(worditem)
+        f.write(worditem + '\n')
+        print("已记录{}个单词/词组".format(n+1))
     print()
+    f.flush()
+    f.close()
+
    
   
-if __name__ == "__main__":
-    while True:
-        main()
