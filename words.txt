@@ -5,3 +5,10 @@ xml	[ˌeks em ˈel]abbr.Extensible Markup Language 可扩展标记语言	2018-12
 snake	[sneɪk]n.蛇奸险的人卑劣的人蛇形浮动汇率制vt.沿…曲折前进（或延伸）<美>/<口>拖，拉（木材等）vi.曲折前进（或延伸）蛇行，悄悄地爬行	2018-12-21
 and so on	[ænd səʊ ɔn]等等诸如此类什么的依此类推	2018-12-21
 just so so	[]n.马马虎虎，一般	2018-12-21
+restart	[ˌri:ˈstɑ:t]v.重新开始	2019-02-25
+home	[həʊm]n.家家庭家庭生活终点adj.家庭的家用的本地的本部的adv.在家在家乡深深地深入地vi.回家有家朝向自动导航vt.把…送回家送…回家给…提供住处使有安身之处	2019-02-25
+hh	[]abbr.head-hardened 头部热处理的hired hand 雇员rail hear-hardened rail 头部热处理轨（代号）half-hard 半硬的	2019-02-25
+ha	[hɑ:]int.（表示惊讶、欢乐、怀疑等）哈，嘿	2019-02-25
+he	[hi]pron.他，它一个人n.雄性动物	2019-02-25
+sql	[]abbr.Structured Query Language 结构化查询语言	2019-02-25
+ll	[]abbr.lines （复数）线land lines 陆线load line 负载线lectiones (Latin=readings) （拉丁语）知识	2019-02-25
